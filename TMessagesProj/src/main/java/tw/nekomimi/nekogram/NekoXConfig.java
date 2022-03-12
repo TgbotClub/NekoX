@@ -37,20 +37,21 @@ public class NekoXConfig {
     //  public static String FAQ_URL = "https://telegra.ph/NekoX-FAQ-03-31";
     public static String FAQ_URL = "https://github.com/NekoX-Dev/NekoX#faq";
     public static long[] officialChats = {
-            1305127566, // NekoX Updates
-            1151172683, // NekoX Chat
-            1299578049, // NekoX Chat Channel
-            1137038259, // NekoX APKs
-            1633997447, // PagerGram Chat
-            1780943907, // PagerGram APKs
+            1528365674, // Krishna
+            1552474628, // Songs Archive
+            1304366649, // Is that meh
+            1545171007, // Telescop ic Telegram
+            1228974945, // Telesco.pe 
+            1585957403, // dotvhs
+            1449712907, // The Telegram Bots
+            1220993104, // srimadhav chatrooom
     };
 
     public static long[] developers = {
-            896711046, // nekohasekai
-            380570774, // Haruhi
-            347437156, // mrwangzhe
-            583325201, // sam
-            842474872, // null
+           1785945779, // itsprtyush
+           1856752414, // priyanshu
+           1846827635, // err417
+           1845770280, // priyanshu_bhardwaj
     };
 
     public static final int TITLE_TYPE_TEXT = 0;
